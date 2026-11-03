@@ -1,5 +1,5 @@
 /*
-* Example project - ESP32-S3 with 1.69" 8x160 RGB ST7735 display.
+* Example project - ESP32-S3 with 1.69" 240x280 RGB ST7789 display.
 * (c)2026 mzabovsky
 * 
 * Board and peripherals:
